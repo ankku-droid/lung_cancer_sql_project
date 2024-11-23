@@ -186,7 +186,8 @@ GROUP BY
 ```
 **You can further modify this query to calculate percentages for easier comparison:**
 **This will output the percentage prevalence of each symptom for smokers and non-smokers.**
-```
+
+```sql
 SELECT 
     SMOKING_status,
     ROUND(SUM(CASE WHEN WHEEZING = 'Yes' THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 2) AS wheezing_percentage,
@@ -336,7 +337,7 @@ GROUP BY smoking_status;
 
 ```
 **same query with windows function.**
-```
+```sql
 WITH smoker_data AS (
     SELECT smoking_status, COUNT(*) AS count
     FROM lung_cancer
