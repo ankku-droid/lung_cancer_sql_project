@@ -383,6 +383,6 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media.
 
-- **LinkedIn**: [Connect with me professionally]([https://www.linkedin.com/in/najirr](https://www.linkedin.com/in/deepak-analyst-485b602a3/))
+- **LinkedIn**: [Connect with me professionally]([https://www.linkedin.com/in/najirr](https://www.linkedin.com/in/deepak-analyst-485b602a3/)
 
 Thank you for your support, and I look forward to connecting with you!
