@@ -76,7 +76,7 @@ LUNG_CANCER IS NULL  ;
 
 ### 2. Data Exploration
 
-```
+```sql
 SELECT COUNT(*) as total_case FROM lung_cancer;
 
 SELECT COUNT(DISTINCT age) as total_unique_age FROM lung_cancer;
