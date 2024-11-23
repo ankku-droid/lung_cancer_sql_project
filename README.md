@@ -360,10 +360,10 @@ Specific combinations of symptoms have a higher predictive value for lung cancer
 
 ## Reports
 
-- **Sales Summary**: A detailed report summarizing total sales, customer demographics, and category performance.
-- **Trend Analysis**: Insights into sales trends across different months and shifts.
-- **Customer Insights**: Reports on top customers and unique customer counts per category.
-
+- **Data analysis:**: Translating raw data into actionable insights.
+- **Predictive Indicators:**: Smokers with chronic diseases had a higher likelihood of reporting symptoms like chest pain.
+- **Healthcare analytics**: Understanding risk factors and symptom correlations.
+- 
 ## Conclusion
 
 The SQL analysis of the Lung Cancer dataset demonstrates the power of structured querying for deriving actionable insights from raw data. The findings emphasize the critical role of lifestyle and environmental factors in lung cancer prevalence, highlighting areas for targeted interventions such as anti-smoking campaigns and workplace safety measures.
@@ -373,7 +373,7 @@ The SQL analysis of the Lung Cancer dataset demonstrates the power of structured
 1. **Clone the Repository**: Clone this project repository from GitHub.
 2. **Set Up the Database**: Run the SQL scripts provided in the `database_setup.sql` file to create and populate the database.
 3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
-4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
+4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional questions.
 
 ## Author - Deepak
 
