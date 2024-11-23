@@ -363,7 +363,7 @@ Specific combinations of symptoms have a higher predictive value for lung cancer
 - **Data analysis:**: Translating raw data into actionable insights.
 - **Predictive Indicators:**: Smokers with chronic diseases had a higher likelihood of reporting symptoms like chest pain.
 - **Healthcare analytics**: Understanding risk factors and symptom correlations.
-- 
+  
 ## Conclusion
 
 The SQL analysis of the Lung Cancer dataset demonstrates the power of structured querying for deriving actionable insights from raw data. The findings emphasize the critical role of lifestyle and environmental factors in lung cancer prevalence, highlighting areas for targeted interventions such as anti-smoking campaigns and workplace safety measures.
